@@ -1,2 +1,0 @@
-# HPC_Assign
-HPC ASSIGNMENT
